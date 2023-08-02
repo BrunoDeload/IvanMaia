@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Aug 2023 17:14:06 at https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/ -O1 "C:\Users\Bruno Beas\Videos\Sites\Ivan Maia HTTrack" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:14:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/amp/ (from https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/)
+17:14:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/)
+17:14:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/amp/ (from https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/)
+17:14:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/c (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/b (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:26	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/amp/ (from https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/)
+17:14:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/c (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/b (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.ivanmaia.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/c (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/b (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/oferta-curso-a-fina-arte-de-lidar-com-pessoas/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:14:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.ivanmaia.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 86 links scanned, 63 files written (2112551 bytes overall) [725090 bytes received at 32958 bytes/sec], 1870464 bytes transferred using HTTP compression in 47 files, ratio 19%, 9.5 requests per connection
+(8 errors, 14 warnings, 0 messages)
